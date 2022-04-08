@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/AltspaceUploader.meta
+guid: 3aeb1d1f471b40d4286010a24b493364
+folderAsset: yes
+DefaultImporter:
+=======
+guid: 1ee410ca1dbd1684e8a54772ef77670b
+TextScriptImporter:
+>>>>>>> d117f21... Add msa login:PackageSrc/com.microsoft.internal.altspacevr_uploader/Plugins/System.Reflection.Emit.Lightweight.xml.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+<<<<<<< HEAD:Assets/ReorderableInspector/ReorderableInspector.asmdef.meta
+fileFormatVersion: 2
+guid: c5b8875fb31930a4493e66ba9955e051
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: 586bdf751c1767445a86cd9c01314269
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> d117f21... Add msa login:PackageSrc/com.microsoft.internal.altspacevr_uploader/Plugins/System.Memory.xml.meta
